@@ -1,0 +1,10 @@
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\Demo1\Demo1\bin\Demo1.dll.config
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\Demo1\Demo1\bin\Demo1.dll
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\Demo1\Demo1\bin\Demo1.pdb
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\Demo1\Demo1\bin\DAL.dll
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\Demo1\Demo1\bin\Models.dll
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\Demo1\Demo1\bin\DAL.pdb
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\Demo1\Demo1\bin\Models.pdb
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\Demo1\Demo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\Demo1\Demo1\obj\Debug\Demo1.dll
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\Demo1\Demo1\obj\Debug\Demo1.pdb

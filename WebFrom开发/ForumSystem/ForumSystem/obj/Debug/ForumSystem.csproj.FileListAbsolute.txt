@@ -1,0 +1,10 @@
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\ForumSystem\ForumSystem\bin\ForumSystem.dll.config
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\ForumSystem\ForumSystem\bin\ForumSystem.dll
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\ForumSystem\ForumSystem\bin\ForumSystem.pdb
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\ForumSystem\ForumSystem\bin\DAL.dll
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\ForumSystem\ForumSystem\bin\Models.dll
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\ForumSystem\ForumSystem\bin\DAL.pdb
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\ForumSystem\ForumSystem\bin\Models.pdb
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\ForumSystem\ForumSystem\obj\Debug\ForumSystem.csprojResolveAssemblyReference.cache
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\ForumSystem\ForumSystem\obj\Debug\ForumSystem.dll
+C:\Users\赵鑫5201314\Documents\Visual Studio 2013\Projects\2019学习代码\ASP.NET\ForumSystem\ForumSystem\obj\Debug\ForumSystem.pdb
